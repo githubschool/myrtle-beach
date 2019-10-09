@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+ScottH may or may not be a GitHub founding father within our walls...
 
-![dojocat](https://octodex.github.com/images/dojocat.jpg)
+![dojocat](https://octodex.github.com/images/founding-father.jpg)
 {: .center}
