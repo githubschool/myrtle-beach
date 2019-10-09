@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to ScottH's corner of our slide deck!"
 ---
 
 ScottH may or may not be a GitHub founding father within our walls...
