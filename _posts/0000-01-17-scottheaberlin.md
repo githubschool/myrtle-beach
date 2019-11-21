@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to The Man's corner of our slide deck!"
 ---
 
-Caption here
+ScottH may or may not be a GitHub founding father within our walls... :+1:
 
-![dojocat](https://octodex.github.com/images/dojocat.jpg)
+![dojocat](https://octodex.github.com/images/founding-father.jpg)
 {: .center}
